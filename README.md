@@ -11,4 +11,4 @@ I am a junior high school student who is now working as a parkour minigame devel
 ![](https://github-profile-trophy.vercel.app/?username=arvin3108&theme=discord)
 
 ## CodersRank Score
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arvin3108)](https://profile.codersrank.io/user/arvin3108&show-header=true)
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arvin3108)](https://profile.codersrank.io/user/arvin3108)

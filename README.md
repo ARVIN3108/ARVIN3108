@@ -1,6 +1,6 @@
 # Hi 👋
 ### I'm Arvin
-I am a junior high school student who is now working as a parkour minigame developer on the [LuckyNetwork](https://github.com/Lucky-Development-Department) server
+I am a junior high school student.
 
 ![](https://raw.githubusercontent.com/ARVIN3108/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ARVIN3108/github-stats/master/generated/overview.svg#gh-light-mode-only)

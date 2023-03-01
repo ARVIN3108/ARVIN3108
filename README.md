@@ -1,6 +1,6 @@
 # Hi 👋
 ### I'm Arvin
-I am a junior high school student.
+I am a junior high school student. Helping during presentations, printing, editing, and other IT stuff
 
 ![](https://raw.githubusercontent.com/ARVIN3108/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ARVIN3108/github-stats/master/generated/overview.svg#gh-light-mode-only)
